@@ -131,27 +131,3 @@ elif frase[0] == '-':
 
 if resultado == 0:
     print ("La cadena \"%s\" no es válida" %palabra.original)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
